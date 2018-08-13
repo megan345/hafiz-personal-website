@@ -1,4 +1,4 @@
-# hafiz-personal-website
+# megan-personal-website
 Personal website
 
 
